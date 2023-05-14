@@ -14,5 +14,6 @@ The bot handling DMs running on our [Discord server](https://discord.gg/intellec
 3. Export the token into `.env`
 4. Run `./start.sh`
 
-All functionality we depend on has been migrated to Dyno, so we don't need to maintain more than what's in place.
-If you want to contribute maintenance updates to the one feature, feel free to open a PR.
+The commands we use have been migrated to Dyno.  
+We are only using this bot for DMs.
+If you want to contribute maintenance updates, feel free to open a PR.
