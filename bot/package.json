@@ -1,0 +1,13 @@
+{
+  "name": "Sheriff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "NotMyFault",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.3"
+  }
+}
