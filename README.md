@@ -11,7 +11,7 @@ The bot handling DMs running on our [Discord server](https://discord.gg/intellec
 
 1. Clone the repository
 2. Run `npm install` inside the `bot/` directory
-3. Export the token into `.env`
+3. Run `export TOKEN=<token goes here>` while inserting the token.
 4. Run `./start.sh`
 
 The commands we use have been migrated to Dyno.  
