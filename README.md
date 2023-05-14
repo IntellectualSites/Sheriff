@@ -4,8 +4,8 @@ The bot handling DMs running on our [Discord server](https://discord.gg/intellec
 
 ## Requirements
 
-- Node 12.5.x
-- Npm 7.x
+- Node 16.9.x
+- Npm 8.x
 
 ## Run the bot
 
