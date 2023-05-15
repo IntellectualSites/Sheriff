@@ -32,7 +32,9 @@ client.on('ready', () => {
 });
 
 client.on('messageCreate', async message => {
-  console.log(message.content);
+  if (message.author.bot) {
+    return;
+  }
   if (!message.guild) {
     const channel = await client.channels.fetch(channelID);
     if (channel) {
