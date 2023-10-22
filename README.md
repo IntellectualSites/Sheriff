@@ -1,3 +1,5 @@
+# Sheriff has been archived. We're now using threads.
+
 # Sheriff
 
 The bot handling DMs running on our [Discord server](https://discord.gg/intellectualsites).
